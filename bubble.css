@@ -22,7 +22,7 @@ body {
         background-size: contain;  /* 背景圖片會完全顯示，保持比例 */
     background-position: center; /* 背景圖片居中 */
     background-repeat: no-repeat; /* 背景圖片不重複 */
-    background-color: rgb(144, 235, 176); /* 設定背景顏色，當圖片無法填滿容器時顯示此顏色 */
+    background-color: rgb(40, 182, 185); /* 設定背景顏色，當圖片無法填滿容器時顯示此顏色 */
     }
 }
 
@@ -72,9 +72,9 @@ body {
 }
 /* 字位置語法 */
 .content h4 {
-    font-size: 55px;
+    font-size: 50px;
     color: rgb(252, 252, 252);
-    text-shadow: 0 0 3px rgb(17, 86, 109), 0 0 20px rgb(162, 223, 254);
+    text-shadow: 0 0 3px rgb(178, 221, 235), 0 0 20px rgb(162, 223, 254);
 }
 /* 字顏色語法 */
 .enter {
